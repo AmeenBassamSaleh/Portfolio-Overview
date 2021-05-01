@@ -1,4 +1,4 @@
-# Deploy and Extend Your [Portfolio](https://relaxed-fermat-02c303.netlify.app/landing-page)
+# Deploy and Extend Your [Portfolio](https://relaxed-fermat-02c303.netlify.app/)
 
 ## Overview
 
